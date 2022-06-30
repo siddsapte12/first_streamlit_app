@@ -2,3 +2,4 @@
 snowflake-connector-python
 charset-normalizer==2.0.0
 pyarrow==6.0.0
+cffi==1.5.2
